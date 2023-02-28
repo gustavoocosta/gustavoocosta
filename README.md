@@ -1,4 +1,4 @@
-<h1 align="center">Olá, sou o Gustavo Costa</h1>
+<h1 align="center">Olá, sou o Gustavo Costa :wave:</h1>
 <h3 align="center">BackEnd Developer, Systems Analysis and Development student at Universidade de Marilia - UNIMAR; I am specializing in different languages, databases and hosting platform, we use Java, Javascript, NodeJs, Goland, SQL, Git, GitRub technologies.</h3>
 
 - 📫 How to reach me **gustavocosta2407@gmail.com**

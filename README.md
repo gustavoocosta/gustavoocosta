@@ -1,66 +1,58 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Agdasima&weight=800&size=26&pause=1000&color=FFFFFF&width=468&height=60&lines=Be+welcome!+%F0%9F%98%8A;Hello%2C+My+name+is+Gustavo+Costa+%F0%9F%A4%99%F0%9F%8F%BE" alt="Typing SVG" /></a>
+# 👋 Olá! Eu sou o Gustavo Costa
 
-I am a software developer with two and a half years of experience, focusing on Golang and Java. Currently, I am in my final semester of a Technology degree in Systems Analysis and Development at the University of Marília, where I have deepened my knowledge in technologies like HTML, CSS, JavaScript, Node.js, MySQL, and AWS. I have experience in both backend and frontend development and am passionate about creating functional, efficient, and intuitive solutions for users.
+🎓 Desenvolvedor de Software graduado em Análise e Desenvolvimento de Sistemas pela Universidade de Marília (UNIMAR). Atualmente, curso MBA em Engenharia de Software pela UTFPR.
 
-Additionally, I use Git and GitHub for project organization and collaboration, and I have experience in data analysis, which helps me optimize solutions. I am constantly seeking to grow professionally, apply my knowledge to personal projects, and contribute innovative solutions to technology challenges.
+💻 Com mais de 2 anos e meio de experiência prática, sou apaixonado por criar soluções tecnológicas robustas, escaláveis e que realmente façam a diferença. Tenho foco em desenvolvimento **back-end com Java (Spring Boot) e Golang**, mas também atuo no **front-end com React.js**, além de dominar ferramentas e práticas modernas de desenvolvimento.
 
+---
 
-**Technology Stack:**
+## 🚀 Tecnologias e Ferramentas
 
-<a><img align="left" src="https://github.com/gustavoocosta/GustavoCosta/blob/main/images/golang.png"
-alt="Golang" width="30"/></a>
-<a><img align="left" src="https://github.com/gustavoocosta/GustavoCosta/blob/main/images/java.png"
-alt="Java" width="30"/></a>
-<a><img align="left" src="https://github.com/gustavoocosta/GustavoCosta/blob/main/images/logo-javascript-1024.png"
-alt="Javascript" width="30"/></a>
-<a><img align="left" src="https://github.com/gustavoocosta/gustavoocosta/blob/main/images/AWS.png"
-alt="AWS" width="30"/></a>
-<a><img align="left" src="https://github.com/gustavoocosta/gustavoocosta/blob/main/images/SQL.png"
-alt="SQL" width="30"/></a>
-<a><img align="left" src="https://github.com/gustavoocosta/gustavoocosta/blob/main/images/Node.js.png"
-alt="Node-JS" width="30"/></a>
-<a><img align="left" src="https://github.com/gustavoocosta/gustavoocosta/blob/main/images/Git.png"
-alt="git" width="30"/></a>
+**Back-end:**  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)  
+**Front-end:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  
+**Banco de Dados & DevOps:**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
+---
 
-<br />
-<br />
-<br />
+## 🧠 Em aprendizado contínuo
+- Arquitetura de Software
+- Microsserviços com Go e Java
+- CI/CD com Jenkins e GitHub Actions
+- Cloud com AWS & GCP
 
+---
 
-<p align="center">
-<img height= "170em" src="https://github-readme-stats.vercel.app/api?username=gustavoocosta&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97&count_private=true"/>
-<img height= "170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoocosta&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97&hide=CSharp"/>
+## 🧩 Projetos em destaque
 
+- 🎵 [**Music Streaming App**](https://github.com/gustavoocosta/music-streaming-app)  
+Sistema de streaming de música desenvolvido com Java + Spring Boot + MySQL.
 
+- 🏦 [**GcBank**](https://github.com/gustavoocosta/GcBank)  
+Aplicação bancária simulada com foco em segurança e performance.
 
-**Social Media:**
+- 🌐 [**Portfólio Pessoal**](https://github.com/gustavoocosta)  
+Site desenvolvido com HTML, CSS e React.js para apresentar projetos e informações de contato.
 
-<a href="mailto:gustavocosta2407@gmail.com"><img align="left" src="https://github.com/gustavoocosta/GustavoCosta/blob/main/images/email.png" 
-alt="email" height="25"/></a>
-<a href="https://www.linkedin.com/in/gustavosocosta/">
-<img align="left" src="https://github.com/gustavoocosta/GustavoCosta/blob/main/images/linkedin.png" alt="linkedin" height="25"/></a>
-<a href="https://www.instagram.com/gustavcosta/">
-<img align="left" src="https://github.com/gustavoocosta/GustavoCosta/blob/main/images/instagram.png" alt="instagram" height="25"/></a>
+---
 
+## 📫 Vamos nos conectar?
 
-<br />
-<br />
-<br />
+- ✉️ Email: gustavocosta2407@gmail.com  
+- 🔗 LinkedIn: [linkedin.com/in/gustavoocosta](https://www.linkedin.com/in/gustavoocosta)  
+- 💼 Portfólio: [github.com/gustavoocosta](https://github.com/gustavoocosta)
 
+---
 
-**Studying in this moment:**
-
-<a><img align="left" src="https://github.com/gustavoocosta/gustavoocosta/blob/main/images/ADS.png"
-alt="ADS" width="30"/></a>
-<a><img align="left" src="https://github.com/gustavoocosta/GustavoCosta/blob/main/images/golang.png"
-alt="Golang" width="30"/></a>
-<a><img align="left" src="https://github.com/gustavoocosta/GustavoCosta/blob/main/images/java.png"
-alt="Java" width="30"/></a>
-<a><img align="left" src="https://github.com/gustavoocosta/gustavoocosta/blob/main/images/Git.png"
-alt="git" width="30"/></a>
-<a><img align="left" src="https://github.com/gustavoocosta/gustavoocosta/blob/main/images/AWS.png"
-alt="AWS" width="30"/></a>
-<a><img align="left" src="https://github.com/gustavoocosta/GustavoCosta/blob/main/images/logo-javascript-1024.png"
-alt="Javascript" width="30"/></a>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+_“Sempre em busca de novos desafios, aprendizado constante e soluções que gerem valor.”_

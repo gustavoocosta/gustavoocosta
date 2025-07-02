@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Gustavo Costa
+# 👋 Olá! Eu sou o Gustavo
 
 🎓 Desenvolvedor de Software graduado em Análise e Desenvolvimento de Sistemas pela Universidade de Marília (UNIMAR). Atualmente, curso MBA em Engenharia de Software pela UTFPR.
 

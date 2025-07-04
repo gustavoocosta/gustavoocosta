@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Gustavo
 
-🎓 Desenvolvedor de Software graduado em Análise e Desenvolvimento de Sistemas pela Universidade de Marília (UNIMAR). Atualmente, curso MBA em Engenharia de Software pela UTFPR.
+🎓 Desenvolvedor de Software, tecnólogo em Análise e Desenvolvimento de Sistemas pela Universidade de Marília (UNIMAR). Atualmente, curso MBA em Engenharia de Software pela UTFPR.
 
 💻 Com mais de 2 anos e meio de experiência prática, sou apaixonado por criar soluções tecnológicas robustas, escaláveis e que realmente façam a diferença. Tenho foco em desenvolvimento **back-end com Java (Spring Boot) e Golang**, mas também atuo no **front-end com React.js**, além de dominar ferramentas e práticas modernas de desenvolvimento.
 

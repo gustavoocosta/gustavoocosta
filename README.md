@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Gustavo
 
-Sou **Desenvolvedor de Software Jr** com experiência em **Java (Spring Boot, Quarkus), Golang e JavaScript (Node.js, React.js)**.  
+Sou **Desenvolvedor Backend Jr** com experiência em **Java (Spring Boot, Quarkus), Golang e JavaScript (Node.js, React.js)**.  
 
 Atuo na construção de **APIs RESTful, microsserviços e integrações seguras**, utilizando **PostgreSQL e SQL Server**.  
 

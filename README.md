@@ -1,14 +1,8 @@
 # 👋 Olá! Eu sou o Gustavo
 
-Sou **Desenvolvedor Backend Jr** com experiência em **Java (Spring Boot, Quarkus), Golang e JavaScript (Node.js, React.js)**.  
+**Analista e Desenvolvedor de Sistemas**, formado em Análise e Desenvolvimento de Sistemas e cursando MBA em Engenharia de Software. Possuo experiência em análise de requisitos, modelagem de sistemas e desenvolvimento back-end utilizando Java (Spring Boot, Quarkus), Golang e Node.js.
 
-Atuo na construção de **APIs RESTful, microsserviços e integrações seguras**, utilizando **PostgreSQL e SQL Server**.  
-
-Possuo vivência em **Git, Docker, Maven e pipelines de CI/CD**, além de experiência em **cloud (AWS e GCP)**.  
-
-Aplico **boas práticas** como **Clean Code, testes automatizados e padrões de projeto**, tendo implementado soluções de **autenticação com JWT** em sistemas web.  
-
-Participo ativamente de **projetos pessoais** publicados no GitHub, incluindo **sistemas de streaming de música, aplicações bancárias e portfólios interativos**. Estou sempre aprendendo novas tecnologias, colaborando em **equipes ágeis** e entregando soluções inovadoras.
+Atuo com integração de sistemas, APIs REST, bancos de dados relacionais e ambientes ágeis, sempre com foco em qualidade de código, documentação técnica e boas práticas de engenharia de software.
 
 ---
 

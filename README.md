@@ -1,8 +1,6 @@
 # 👋 Olá! Eu sou o Gustavo
 
-**Analista e Desenvolvedor de Sistemas**, formado em Análise e Desenvolvimento de Sistemas e cursando MBA em Engenharia de Software. Possuo experiência em análise de requisitos, modelagem de sistemas e desenvolvimento back-end utilizando Java (Spring Boot, Quarkus), Golang e Node.js.
-
-Atuo com integração de sistemas, APIs REST, bancos de dados relacionais e ambientes ágeis, sempre com foco em qualidade de código, documentação técnica e boas práticas de engenharia de software.
+**Analista e desenvolvedor de Sistemas, com experiência em suporte e sustentação de sistemas corporativos, análise de incidentes, levantamento de requisitos, documentação técnica e desenvolvimento e manutenção de aplicações. Conhecimentos em Java, Spring Boot, Quarkus, Golang, JavaScript, Node.js, Python, APIs REST e bancos de dados relacionais. Experiência com monitoramento de ambientes corporativos e ferramentas de suporte. Atualmente, cursando pós-graduação em Engenharia de Software e MBA em Inteligência Artificial, com interesse em desenvolvimento back-end, qualidade de software e melhoria contínua de soluções tecnológicas.
 
 ---
 
